@@ -1,6 +1,5 @@
-package First10;
+package ArrayEasy;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class MaxMinElemInArray {

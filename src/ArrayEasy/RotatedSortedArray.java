@@ -1,4 +1,4 @@
-package First10;
+package ArrayEasy;
 
 public class RotatedSortedArray {
     static void Rotate(int arr[], int d, int n)

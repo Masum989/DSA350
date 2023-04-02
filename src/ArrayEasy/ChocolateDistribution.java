@@ -1,4 +1,4 @@
-package First10;
+package ArrayEasy;
 
 import java.util.Arrays;
 

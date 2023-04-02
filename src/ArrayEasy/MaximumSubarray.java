@@ -1,4 +1,4 @@
-package First10;
+package ArrayEasy;
 
 public class MaximumSubarray {
      static void maxSubarraySum(int[] a, int size){
